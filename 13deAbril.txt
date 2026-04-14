@@ -2,3 +2,9 @@ hola 13deAbril2026
 
 
 Corrección menor de formato y preparación para merge rápido.
+
+
+Nueva sección agregada para la simulación de Git-flow desde develop.
+
+
+Preparación final de la versión estable 2.0 para liberación.
